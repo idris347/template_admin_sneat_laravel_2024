@@ -20,6 +20,18 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## langkah-langkah 
+ketikan perintah berikut ini 
+1.composer install 
+2.composer update 
+3.php artisan migrate:fresh --seed 
+4.php artisan serv 
+5.selamat anda bisa akses laravel nya ok 
+
+
+untuk usernya 
+midas@gmail.com
+12345678
 
 ## Learning Laravel
 
