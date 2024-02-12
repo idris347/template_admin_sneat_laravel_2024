@@ -21,13 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 ## langkah-langkah 
-ketikan perintah berikut ini 
-1.composer install 
-2.composer update 
-3.php artisan migrate:fresh --seed 
-4.php artisan serv 
-5.selamat anda bisa akses laravel nya ok 
-
+ketikan perintah berikut ini
+```bash
+$ composer install 
+$ composer update 
+$ php artisan migrate:fresh --seed 
+$ php artisan serv 
+selamat anda bisa akses laravel nya ok 
+```
 
 untuk usernya 
 midas@gmail.com
